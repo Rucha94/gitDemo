@@ -1,3 +1,4 @@
+
 This is my first line......of git.
 this is my second line.......
 
@@ -5,3 +6,5 @@ this is my second line.......
 this is third line of git bash
 adding text on 220523 0842
 0845
+
+ADDING AGAIN
