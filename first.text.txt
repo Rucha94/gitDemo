@@ -14,8 +14,8 @@ adding one more
 
 checking to add single file to git hub
 
-<<<<<<< HEAD
+
 changes done by b...adding from local...
-=======
+
 changes done by b.....adding this from github.....
->>>>>>> 3a292c355b3c04459061d3f0cf742e68248899f8
+ add new feature
